@@ -1,4 +1,4 @@
-O programa deve somar o total de 3 tipos de cobaias utilizadas, mostrar, e tambem demonstrar de forma porcentual cada tipo de cobaia.
+O programa deve somar o total de 3 tipos de cobaias utilizadas, mostrar, e tambem mostrar de forma porcentual cada tipo de cobaia.
 
 Entrada
 
